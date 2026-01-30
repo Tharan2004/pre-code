@@ -1,4 +1,5 @@
-console.log("Hello, World!");
-function greet(name) {
-    return `Hello, ${name}!`;
+console.log("Hello, Worlds!");
+console.log("Hello, Universe!");
+function greet() {
+    console.log("Greetings, Earthlings!");
 }
